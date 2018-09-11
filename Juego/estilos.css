@@ -1,0 +1,27 @@
+#badge{
+    padding: .4em .9em;
+    font-size: 80%;
+}
+
+.rounded {
+    display: inline-block;
+    width: 220px;
+    height: 120px;
+    margin: 6px;
+    background-color: white;
+}
+
+#badge-puntuacion, #badge-promedio, #badge-numPromedio{
+    font-size: 22px;
+    padding-bottom: 6px;
+    margin-bottom: 6px;
+}
+
+#badge-acertada{
+    font-size: 22px;
+    margin-bottom: 18px;
+}
+
+#badge-fallida{
+    font-size: 22px;
+}
